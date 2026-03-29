@@ -1,0 +1,3 @@
+librefind:
+Discover and replace proprietary apps with FOSS alternatives
+https://github.com/jksalcedo/librefind/releases
